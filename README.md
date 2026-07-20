@@ -19,7 +19,7 @@ Throughout the lab, different firewall configurations were created and evaluated
 
 **Kariba Yasmin**
 
-🎓 M.Sc. Cyber Security
+🎓 M.Sc. in Cyber Security 
 
 Former Android Software Engineer
 
