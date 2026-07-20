@@ -21,7 +21,7 @@ Throughout the lab, different firewall configurations were created and evaluated
 
 🎓 M.Sc. in Cyber Security 
 
-Former Android Software Engineer
+- *Former Android Software Engineer*
 
 🔐 Interested in Network Security, Application Security, Secure Software Development, and Cloud Security.
 
