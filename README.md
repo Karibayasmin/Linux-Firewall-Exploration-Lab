@@ -25,7 +25,7 @@ Throughout the lab, different firewall configurations were created and evaluated
 ## Checking for ipman, from the router 10.9.0.1 we can see that by default, ipman is not available in the container due to its minimal setup.  
 
 ```
-screenshots/firewall 2.png
+![Output](screenshots/firewall 2.png)
 ```
 
 ## After installing ipman 
