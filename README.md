@@ -2,6 +2,10 @@
 
 > A practical cybersecurity laboratory focused on configuring, testing, and analyzing Linux firewall behavior using **iptables**.
 
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![iptables](https://img.shields.io/badge/Firewall-iptables-blue?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber-Security-success?style=for-the-badge)
+
 ---
 
 ## 📖 Overview
@@ -14,7 +18,7 @@ Throughout the lab, different firewall configurations were created and evaluated
 
 ---
 
-# This lab report documents the steps taken to configure firewall rules using iptables on a router to protect the router itself and the internal network. The tasks include setting up rules to prevent unauthorized access and ensuring proper network protection.
+## Here, documenting the steps taken to configure firewall rules using iptables on a router to protect the router itself and the internal network. The tasks include setting up rules to prevent unauthorized access and ensuring proper network protection.
 
 ## 📸 Container setup: 
 
@@ -31,7 +35,7 @@ Throughout the lab, different firewall configurations were created and evaluated
 
 ![Output](screenshots/firewall-3.png)
 
-# Protecting the Router
+## Protecting the Router
 
 ## Set up rules to prevent outside machines from accessing the router machine, except for ping requests. Verify the configuration by attempting to ping and telnet into the router from an external machine.
 
