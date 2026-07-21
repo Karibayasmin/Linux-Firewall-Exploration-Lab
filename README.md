@@ -24,15 +24,12 @@ Throughout the lab, different firewall configurations were created and evaluated
 
 ## Checking for ipman, from the router 10.9.0.1 we can see that by default, ipman is not available in the container due to its minimal setup.  
 
-```
-![Output](screenshots/firewall 2.png)
-```
+
+![Output](screenshots/firewall-2.png)
 
 ## After installing ipman 
 
-```
-screenshots/firewall 3.png
-```
+![Output](screenshots/firewall-3.png)
 
 # Protecting the Router
 
@@ -40,9 +37,7 @@ screenshots/firewall 3.png
 
 ## 📸 Commands Executed: 
 
-```
-screenshots/firewall 4.png
-```
+![Output](screenshots/firewall-4.png)
 
 ## Explanation of Commands: 
 
@@ -55,17 +50,13 @@ screenshots/firewall 4.png
 
 ## Ping the Router 10.9.0.1 from 10.9.0.5: 
 
-```
-screenshots/firewall 5.png
-``` 
+![Output](screenshots/firewall-5.png) 
 
 ## Explanation: The ping is successful because ICMP echo-request and echo-reply packets are allowed by the rules. 
 
 ## Telnet into the Router from 10.9.0.5: 
 
-```
-screenshots/firewall 6.png
-``` 
+![Output](screenshots/firewall-6.png) 
 
 ## Explanation: The telnet connection is refused because the default INPUT and OUTPUT policies are set to DROP, and there are no specific rules to allow TCP traffic. 
 
